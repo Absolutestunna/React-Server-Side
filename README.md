@@ -8,8 +8,3 @@ A sample React.js project to understand server-side rendering using a node serve
 2. npm install
 3. npm run dev
 4. open browser to http://localhost:2048
-
-
-## License
-
-This repository is [licensed under CC0-1.0](LICENSE), which waives all copyright restrictions.
