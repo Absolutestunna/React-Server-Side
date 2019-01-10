@@ -1,6 +1,6 @@
 ## React Server side rendering
 
-A sample React.js project to understand server-side rendering using a node server.
+A sample React.js project to understand server-side rendering using a node server and Redux.
 
 ## Workflow
 
